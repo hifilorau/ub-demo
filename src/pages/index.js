@@ -8,10 +8,10 @@ import logo from '../images/ub_neon-logo.png'
 
 const IndexPage = () => (
   <Layout>
-   <div className="section-wrapper hero-section">
+   {/* <div className="section-wrapper hero-section">
     <div className="logo-wrapper"><img src={logo} /></div>
     <div className="hero-content">Yoga by Jessamyn Stanley</div>
-   </div>
+   </div> */}
   <div className="section-wrapper section-1-wrapper">
     <div className="inner-section-wrapper">
       <div className="content section-1-content">
